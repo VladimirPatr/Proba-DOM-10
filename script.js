@@ -1,6 +1,6 @@
-import modulesConst from 'modules/constans.js';
-import modulesTable from 'modules/eventsTable.js';
-import modulesForm from 'modules/eventsForm.js';
+import modulesConst from './modules/constans.js';
+import modulesTable from './modules/eventsTable.js';
+import modulesForm from './modules/eventsForm.js';
 
 const {
     btnAdd,
